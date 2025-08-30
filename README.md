@@ -17,6 +17,16 @@ Web Development (Frontend & Backend):
 I develop modern, responsive web applications using technologies like Laravel, React, JavaScript, Node.js, and Spring Boot.
 
 My backend experience includes working with RESTful APIs, JWT authentication, MySQL/PostgreSQL, and building robust microservices architectures.
+Web Dev Projects :
+* Developed web application for administrative process optimization
+Managed candidate tracking, instructor/vehicle management, and statistics
+Tech : Laravel - FIlament - Mysql
+* Built web application for extracting data from Moroccan e-newspapers
+Implemented automated data collection system
+Tech : Laravel - Livewire - MySQL
+* Chrome extension frontend with a Spring Boot backend, integrating Google’s Gemini AI to provide
+contextual email reply generation.
+Tech : Spring Boot - Javascript - Render  
 
 Data Engineering & Big Data:
 
