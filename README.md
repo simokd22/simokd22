@@ -14,7 +14,7 @@ My journey combines solid experience in web development, Big Data pipelines, and
 
 Web Development (Frontend & Backend):
 
-I develop modern, responsive web applications using technologies like React, Next.js, JavaScript, Node.js, and Spring Boot.
+I develop modern, responsive web applications using technologies like Laravel, React, JavaScript, Node.js, and Spring Boot.
 
 My backend experience includes working with RESTful APIs, JWT authentication, MySQL/PostgreSQL, and building robust microservices architectures.
 
